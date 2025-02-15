@@ -1,16 +1,63 @@
-# simple_login_app
+# Simple Input App (Flutter)
 
-A new Flutter project.
+This is a basic Flutter application demonstrating the use of input fields, form validation, and state management. It features a simple form with two input fields for name and email, along with a submit button. Upon submission, the entered name is displayed in a greeting message.
+
+## Features
+
+Two input fields: Name and Email.
+Basic form validation: Ensures both fields are filled and the email address is valid.
+State management: Updates the UI to display a greeting message using the entered name.
+Clear and concise code: Easy to understand and modify.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+git clone <https://github.com/Pukkawit/simple-input-app.gits>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Navigate to the project directory
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+cd simple-input-app
+
+### Install dependencies
+
+flutter pub get
+
+### Run the app
+
+flutter run
+
+## Key Concepts
+
+<strong>Flutter</strong>platform framework for building natively compiled applications.
+<strong>Widgets</strong>: The building blocks of Flutter UIs.
+<strong>State management</strong>: Managing the data and state of the application.
+<strong>Form validation</strong>: Ensuring user input meets certain criteria.
+<strong>Regular expressions</strong>Used for email validation.
+
+## Keywords
+
+Flutter, Dart, mobile app development, input fields, form validation, state management, UI design, user interface, beginners, tutorial, example, open-source.
+
+## Contributing
+
+Contributions are welcome&lt;1>! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is 1 licensed under the MIT License - see the LICENSE file for details.
+
+1. github.com
+2. MIT
+
+Acknowledgments:
+Flutter documentation
+Dart documentation
+
+## Contact
+
+Witty Umosung - <wittyumosung@gmail.com>
+
+## Project Link
+
+<https://github.com/Pukkawit/simple-input-app.git>
