@@ -29,11 +29,13 @@ flutter run
 
 ## Key Concepts
 
-<strong>Flutter</strong>platform framework for building natively compiled applications.
-<strong>Widgets</strong>: The building blocks of Flutter UIs.
-<strong>State management</strong>: Managing the data and state of the application.
-<strong>Form validation</strong>: Ensuring user input meets certain criteria.
-<strong>Regular expressions</strong>Used for email validation.
+<ul>
+  <li><strong>Flutter:</strong>platform framework for building natively compiled applications.</li>
+  <li><strong>Widgets:</strong>: The building blocks of Flutter UIs.</li>
+  <li><strong>State management:</strong>: Managing the data and state of the application.</li>
+  <li><strong>Form validation:</strong>: Ensuring user input meets certain criteria.</li>
+  <li><strong>Regular expressions:</strong>Used for email validation.</li>
+</ul>
 
 ## Keywords
 
@@ -41,7 +43,7 @@ Flutter, Dart, mobile app development, input fields, form validation, state mana
 
 ## Contributing
 
-Contributions are welcome&lt;1>! Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License
 
